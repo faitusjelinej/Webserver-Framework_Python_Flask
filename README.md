@@ -3,6 +3,7 @@ Question:
 --------
 
 Implement a web service (in Go, Python, or Java). Feel free to use a framework, if desired.
+
 /min - given list of numbers and a quantifier (how many) provides min number(s)
 /max - given list of numbers and a quantifier (how many) provides max number(s)
 /avg - given list of numbers calculates their average
