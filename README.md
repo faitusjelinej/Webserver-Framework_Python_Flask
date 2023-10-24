@@ -2,7 +2,7 @@
 Question:
 --------
 
-Implement a web service (in Go, Python, or Java). Feel free to use a framework, if desired.
+Implemented a web service in Python as a framework.
 
 /min - given list of numbers and a quantifier (how many) provides min number(s)
 
